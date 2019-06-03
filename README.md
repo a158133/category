@@ -1,7 +1,7 @@
 # category
 # loading
 加载动画集合
-#toast
+# toast
 提示窗
-#script
+# script
 vue内动态加载scr
